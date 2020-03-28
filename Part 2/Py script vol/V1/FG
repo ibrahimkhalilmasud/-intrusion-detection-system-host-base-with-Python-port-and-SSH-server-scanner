@@ -1,0 +1,8 @@
+Hydra v9.1-dev (c) 2020 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes.
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2020-02-12 16:20:09
+[WARNING] the module adam6500 is work in progress! please submit a pcap of a successful login as well as false positives to vh@thc.org
+[WARNING] reset the number of parallel task to 1 for adam6500 modbus authentication
+[ERROR] The redis, adam6500, cisco, oracle-listener, s7-300, snmp and vnc modules are only using the -p or -P option, not login (-l, -L) or colon file (-C).
+Use the telnet module for cisco using "Username:" authentication.
+
