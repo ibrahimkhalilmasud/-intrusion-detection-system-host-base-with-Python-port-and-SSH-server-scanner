@@ -10,11 +10,17 @@
 
 
 Art UI install 
+
 pip install termcolor
+
 pip install pyfiglet
+
 pip install colorama
+
 pip3 install --upgrade virtualenv
+
 pip install Pillow
+
 
 
 
@@ -24,13 +30,21 @@ pip install Pillow
 
 
 apt-get install python-dev
+
 apt-get install libjpeg-dev
+
 apt-get install libjpeg8-dev
+
 apt-get install libpng3
+
 apt-get install libfreetype6-dev
+
 ln -s /usr/lib/i386-linux-gnu/libfreetype.so /usr/lib
+
 ln -s /usr/lib/i386-linux-gnu/libjpeg.so /usr/lib
+
 ln -s /usr/lib/i386-linux-gnu/libz.so /usr/lib
+
 
 pip install PIL  --allow-unverified PIL --allow-all-external
 
